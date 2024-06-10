@@ -18,7 +18,7 @@
     --shadow: 0px 16px 40px 0px rgba(143, 160, 193, 0.14);
     --bg-hmtl: #fff1e9;
     --bg-css: #e0fdef;
-    --bg-javasciprit: #ebf0ff;
+    --bg-javascript: #ebf0ff;
     --bg-acessibilidade: #f6e7ff;
     --white: #fff;
     --green: #26d782;
@@ -73,7 +73,7 @@ header {
 }
 
 .assunto_icone.javascript {
-    background: var(--bg-javasciprit);
+    background: var(--bg-javascript);
 }
 
 .assunto_icone.acessibilidade {
